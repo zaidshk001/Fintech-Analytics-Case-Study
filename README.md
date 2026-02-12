@@ -1,7 +1,7 @@
 # Fintech-Analytics-Case-Study
+
 # 💳 Global Payments, FX & Customer Risk Analytics
 
-### A 45-Question Fintech Analytics Case Study (NIUM-Style Simulation)
 
 ------------------------------------------------------------------------
 
