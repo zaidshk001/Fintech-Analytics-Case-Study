@@ -117,19 +117,6 @@ like NIUM, Wise, Stripe, and PayPal:
 -   Financial sensitivity modeling\
 -   Data-driven decision support
 
-------------------------------------------------------------------------
-
-## ▶️ How to Run
-
-1.  Clone the repository\
-2.  Open the notebook:
-
-```{=html}
-<!-- -->
-```
-    Global_Payments_45_Question_Portfolio.ipynb
-
-All datasets are generated internally --- no external files required.
 
 ------------------------------------------------------------------------
 
